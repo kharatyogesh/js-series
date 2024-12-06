@@ -7,18 +7,18 @@
 //6) symbol
 //7) BigInt
 
-const score=100;
-const scoreValue=100.3
+// const score=100;
+// const scoreValue=100.3
 
-const isLoggedIn=false
+// const isLoggedIn=false
 
-const outSideTemp=null;
-let userEmail=undefined
+// const outSideTemp=null;
+// let userEmail=undefined
 
-const id=Symbol('123')
-const anotherId=Symbol('123')
+// const id=Symbol('123')
+// const anotherId=Symbol('123')
 
-console.log(id===anotherId);
+// console.log(id===anotherId);
 
 
 
@@ -27,18 +27,20 @@ console.log(id===anotherId);
 //2) Objects
 //3) Functions
 
-const heroes=["shaktiman","naagraj","doga"]
+// const heroes=["shaktiman","naagraj","doga"]
 
-let inf={
-    name:"Yogesh",
-    age:22
-}
+// let inf={
+//     name:"Yogesh",
+//     age:22
+// }
 
-const myFunction=function (){
-    console.log("Hello World");
+// const myFunction=function (){
+//     console.log("Hello World");
     
-}
+// }
 
-console.log(typeof myFunction);
-console.log(typeof heroes);
+// console.log(typeof myFunction);
+// console.log(typeof heroes);
+
+
 
